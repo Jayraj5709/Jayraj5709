@@ -61,6 +61,10 @@
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode)
 
 ---
+### 🚀 Projects
+- 📄 [Laptop Shopping Website](https://github.com/username/chatbot) 
+
+---
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
