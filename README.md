@@ -62,7 +62,7 @@
 
 ---
 ### 🚀 Projects
-- 📄 [Laptop Shopping Website](https://github.com/Jayraj5709/laptop-shopping-website) 
+- 📄 [Laptop Shopping Website](https://github.com/Jayraj5709/laptop-shopping-website) -Online laptop shop with frontend and backend integration using HTML, CSS, JavaScript, PHP, and MySQL.
 
 ---
 
