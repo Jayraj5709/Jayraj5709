@@ -72,7 +72,6 @@
 ---
 ## 📊 GitHub Stats
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jayraj5709&theme=tokyonight" height="180px"/>
-<img src="https://github-readme-stats.vercel.app/api?username=jayraj5709&show_icons=true&theme=tokyonight"  height="180px"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jayraj5709&theme=tokyonight" />
 
 
