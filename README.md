@@ -27,9 +27,9 @@
 ### 💡 Skills & Interests  
 <ul>
   <li>⚙️ Software Development & Problem Solving </li>
+  <li>🛠 Building real-world projects using PHP & Laravel </li> 
   <li>🌐 Web Development (Frontend & Backend) </li> 
   <li>📦 Databases & APIs </li> 
-  <li>🛠 Building real-world projects using PHP & Laravel </li> 
   <li>🚀 Exploring software engineering principles, clean code, and design patterns  </li>
 </ul>
 
