@@ -62,7 +62,7 @@
 
 ---
 ### 🚀 Projects
-- 📄 [Laptop Shopping Website](https://github.com/username/chatbot) 
+- 📄 [Laptop Shopping Website](https://github.com/Jayraj5709/laptop-shopping-website) 
 
 ---
 
