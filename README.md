@@ -5,7 +5,6 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/jayrajdangar5/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin" /></a>
    <img src="https://komarev.com/ghpvc/?username=jayraj5709&color=blue" alt="Profile views"/>
 </p>
 
@@ -42,7 +41,7 @@
 
 📧 Email: dangarjayraj5709@gmail.com
 
-🚀 LinkedIn : [LinkedIn](https://www.linkedin.com/in/chandnibhadarka/)  
+💼 [LinkedIn](https://www.linkedin.com/in/jayrajdangar5/)
 
 <!--
 ### 🔗 Visit My Portfolio:
